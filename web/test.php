@@ -87,14 +87,14 @@
                     </div>
 										</a>
 
-										<a href="modaldialogs/1b/1b.html" data-toggle="modal" data-target="#theModal">
+										<a class="crazyModal" href="http://www.tinkin.com/shitwars/1/index.html" data-toggle="modal" data-target="#theModal">
                     <div>
                         <input type="radio" name="question-1-answers" id="question-1-answers-B" value="B" />
                         <label for="question-1-answers-B" class="fwrd labelb">B.  James while John had had had had had had had had had had had a better effect on the teacher</label>
                     </div>
 										</a>
 
-										<a href="modaldialogs/1c/1c.html" data-toggle="modal" data-target="#theModal">
+										<a class="crazyModal" href="http://www.tinkin.com/shitwars/2/index.html" data-toggle="modal" data-target="#theModal">
                     <div>
                         <input type="radio" name="question-1-answers" id="question-1-answers-C" value="C" />
                         <label for="question-1-answers-C" class="fwrd labelc">C.  That that is is that that is not is not is that it it is</label>
