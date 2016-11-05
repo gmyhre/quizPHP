@@ -14,10 +14,7 @@
 
 <body>
 
-<div class="container">
-	<div class="row">
-		<div class="col-lg-1 col-centered">
-	<div>
+	<div id="page-wrap">
 
 		<h1 class="transparent index-headline" >Here&#8217;s What Character You Are</h1>
 
@@ -106,12 +103,12 @@
             if ($totalA > $totalB && $totalA > $totalC && $totalA > $totalD && $totalA > $totalE && $totalA > $totalF && $totalA > $totalG && $totalA > $totalH) {
                   echo '<div class="quiz-overlay result priest"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/ericandre.jpg" alt="Eric Andre" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/priest.jpg" alt="Judas Priest" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Eric Andre</p>
+																				<p class="score">1st Results Judas Priest</p>
 																				<p class="score-details">
-																						You are...
+																						Judas Priest brought heavy metal to a new level with the twin guitars of Glen Tipton and KK Downing and vocals of Rob Halford. Songs you should listen to: Sinner, Victim of Changes, The Ripper, Beyond The Realms of Death, Delivering The Goods, Breaking The Law, Solar Angels, The Sentinel, Painkiller, Nightcrawler, Burn In Hell, Hellrider, Judas Rising.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again?</a>
 												</div>';
@@ -119,12 +116,12 @@
             elseif ($totalB > $totalA && $totalB > $totalC && $totalB > $totalD && $totalB > $totalE && $totalB > $totalF && $totalB > $totalG && $totalB > $totalH) {
                   echo '<div class="quiz-overlay result megadeth"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/timeric.jpg" alt="Tim and Eric" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/megadeth.jpg" alt="Megadeth" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Tim from Tim and Eric</p>
+																				<p class="score">2nd Results Megadeth</p>
 																				<p class="score-details">
-																						You are...
+																						After getting tossed from Metallica, guitarist/singer Dave Mustaine formed Megadeth with bassist Dave Ellefson, one of the iconic thrash metal bands. Songs to check out: Peace Sells (But Who&#8217;s Buying), In My Darkest Hour, Holy Wars, Hangar 18, Tornado Of Souls, High Speed Dirt, Sweating Bullets, Angry Again, Trust, Kill The King.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again?</a>
 												</div>';
@@ -132,12 +129,12 @@
             elseif ($totalC > $totalA && $totalC > $totalB && $totalC > $totalD && $totalC > $totalE && $totalC > $totalF && $totalC > $totalG && $totalC > $totalH) {
                   echo '<div class="quiz-overlay result maiden"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/rick.jpg" alt="Rick and Morty" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/maiden.jpg" alt="Iron Maiden" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Rick from Rick and Morty</p>
+																				<p class="score">3rd results Iron Maiden</p>
 																				<p class="score-details">
-																						You are...
+																						Iron Maiden was one of the first bands to play with extreme speed and precision, and were forerunners of speed and thrash metal. Their mascot, Eddie, is another part of their appeal. Be aure to check out these songs: Running Free, Number of the Beast, The Prisoner, Run To The Hills, The Trooper, 2 Minutes To Midnight, Deja Vu, Fear Of The Dark.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again</a>
 												</div>';
@@ -145,12 +142,12 @@
             elseif ($totalD > $totalA && $totalD > $totalB && $totalD > $totalC && $totalD > $totalE && $totalD > $totalF && $totalD > $totalG && $totalD > $totalH) {
                   echo '<div class="quiz-overlay result dio"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/mrpickles.jpg" alt="Mr Pickles" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/rjd.jpg" alt="Ronnie James Dio" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Mr Pickles</p>
+																				<p class="score">4th Results Ronnie James Dio</p>
 																				<p class="score-details">
-																						You are...
+																						Ronnie James Dio possessed one of the most powerful voices in rock history. He sang for Rainbow and Black Sabbath before forming his own band, Dio. Noteworthy songs to check out include: Heaven and Hell, Neon Nights, The Mob Rules, Holy Diver, Rainbow in The Dark, Don&#8217;t Talk To Strangers, The Last In Line, I, The Devil Cried.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again</a>
 												</div>';
@@ -158,12 +155,12 @@
 						elseif ($totalE > $totalA && $totalE > $totalB && $totalE > $totalC && $totalE > $totalD && $totalE > $totalF && $totalE > $totalG && $totalE > $totalH) {
                   echo '<div class="quiz-overlay result dio"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/henry.jpg" alt="Henry from Your Pretty face is Going to Hell" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/rjd.jpg" alt="Ronnie James Dio" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Henry from Your Pretty face is Going to Hell</p>
+																				<p class="score">5th Results</p>
 																				<p class="score-details">
-																						You are...
+																						Ronnie James Dio possessed one of the most powerful voices in rock history. He sang for Rainbow and Black Sabbath before forming his own band, Dio. Noteworthy songs to check out include: Heaven and Hell, Neon Nights, The Mob Rules, Holy Diver, Rainbow in The Dark, Don&#8217;t Talk To Strangers, The Last In Line, I, The Devil Cried.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again</a>
 												</div>';
@@ -171,12 +168,12 @@
 						elseif ($totalF > $totalA && $totalF > $totalB && $totalF > $totalC && $totalF > $totalD && $totalF > $totalE && $totalF > $totalG && $totalF > $totalH) {
                   echo '<div class="quiz-overlay result dio"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/blackjesus.jpg" alt="Black Jesus" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/rjd.jpg" alt="Ronnie James Dio" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Black Jesus</p>
+																				<p class="score">6th Results</p>
 																				<p class="score-details">
-																						You are...
+																						Ronnie James Dio possessed one of the most powerful voices in rock history. He sang for Rainbow and Black Sabbath before forming his own band, Dio. Noteworthy songs to check out include: Heaven and Hell, Neon Nights, The Mob Rules, Holy Diver, Rainbow in The Dark, Don&#8217;t Talk To Strangers, The Last In Line, I, The Devil Cried.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again</a>
 												</div>';
@@ -184,12 +181,12 @@
 						elseif ($totalG > $totalA && $totalG > $totalB && $totalG > $totalC && $totalG > $totalD && $totalG > $totalE && $totalG > $totalF && $totalG > $totalH) {
 									echo '<div class="quiz-overlay result dio"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/squidbillies.jpg" alt="Squidbillies" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/rjd.jpg" alt="Ronnie James Dio" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Squidbillies</p>
+																				<p class="score">7th Results</p>
 																				<p class="score-details">
-																						You are...
+																						Ronnie James Dio possessed one of the most powerful voices in rock history. He sang for Rainbow and Black Sabbath before forming his own band, Dio. Noteworthy songs to check out include: Heaven and Hell, Neon Nights, The Mob Rules, Holy Diver, Rainbow in The Dark, Don&#8217;t Talk To Strangers, The Last In Line, I, The Devil Cried.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again</a>
 												</div>';
@@ -197,12 +194,12 @@
 						elseif ($totalH > $totalA && $totalH > $totalB && $totalH > $totalC && $totalGH > $totalD && $totalH > $totalE && $totalH > $totalF && $totalH > $totalG) {
 									echo '<div class="quiz-overlay result dio"></div>
 												<div class="results-text">
-															<p class="you-chose">You Are:</p>
-																		<img src="imgs/morty.jpg" alt="Morty from Rick and Morty" class="results-img" />
+															<p class="you-chose">You Scored:</p>
+																		<img src="imgs/rjd.jpg" alt="Ronnie James Dio" class="results-img" />
 																		<div class="results test-results2">
-																				<p class="score">Morty from Rick and Morty</p>
+																				<p class="score">8th Results</p>
 																				<p class="score-details">
-																						You are...
+																						Ronnie James Dio possessed one of the most powerful voices in rock history. He sang for Rainbow and Black Sabbath before forming his own band, Dio. Noteworthy songs to check out include: Heaven and Hell, Neon Nights, The Mob Rules, Holy Diver, Rainbow in The Dark, Don&#8217;t Talk To Strangers, The Last In Line, I, The Devil Cried.
 																				</p>
 																		<a id="replay" class="take-quiz-btn" href="test.php">Play Again</a>
 												</div>';
@@ -226,12 +223,7 @@
                <button class="close-btn" onclick="modalhide()">Close</button>
           </div>
 
-				</div>
-
-		</div>
 	</div>
-	</div>
-</div>
 
   <script type="text/javascript">
       function modalshow(){
