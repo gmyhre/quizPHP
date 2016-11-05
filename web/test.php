@@ -28,7 +28,11 @@
 
 <!-- Modal Dialog Windows -->
 <div id="theModal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  
   <div class="modal-dialog modal-lg">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    </div>
     <div class="modal-content">
         <div class="loading">Please wait</div>
       <iframe width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency="true" src="" ></iframe>
