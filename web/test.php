@@ -88,34 +88,26 @@
                     <div class="quiz-overlay"></div>
                     <h3>1. You are on your first date in a romantic restaurant, your date ask what you want to order, and you answer:</h3>
 
-                    <a class="crazyModal" data-iframe="http://www.tinkin.com/shitwars/3/index.html" href="#" data-toggle="modal" data-target="#theModal">
 										<div class="mtm">
-                        <input type="radio" name="question-1-answers" id="question-1-answers-A" value="A" />
+                        <input type="radio" name="question-1-answers" id="question-1-answers-A" value="A" data-iframe="http://www.tinkin.com/shitwars/3/index.html"  data-toggle="modal" data-target="#theModal"/>
                         <label for="question-1-answers-A" class="fwrd labela">A.  Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo</label>
                     </div>
-                    </a>
 
-                    <a class="crazyModal" data-iframe="http://www.tinkin.com/shitwars/3/index.html" href="#" data-toggle="modal" data-target="#theModal">
 										<div class="mtm">
-                        <input type="radio" name="question-1-answers" id="question-1-answers-B" value="B" />
+                        <input type="radio" name="question-1-answers" id="question-1-answers-B" value="B" data-iframe="http://www.tinkin.com/shitwars/3/index.html" data-toggle="modal" data-target="#theModal"/>
                         <label for="question-1-answers-B" class="fwrd labelb">B.  James while John had had had had had had had had had had had a better effect on the teacher</label>
                     </div>
-                    </a>
 
-                    <a class="crazyModal" data-iframe="http://www.cnn.com" href="#" data-toggle="modal" data-target="#theModal">
 										<div class="mtm">
                         <input type="radio" name="question-1-answers" id="question-1-answers-C" value="C" />
                         <label for="question-1-answers-C" class="fwrd labelc">C.  That that is is that that is not is not is that it it is</label>
                     </div>
-                    </a>
 
-                    <a class="crazyModal" data-iframe="http://www.cnn.com" href="#" data-toggle="modal" data-target="#theModal">
                     
 										<div class="mtm">
-                        <input type="radio" name="question-1-answers" id="question-1-answers-D" value="D" />
+                        <input type="radio" name="question-1-answers" id="question-1-answers-D" value="D" data-iframe="http://www.tinkin.com/shitwars/3/index.html" data-toggle="modal" data-target="#theModal"/>
                         <label for="question-1-answers-D" class="fwrd labeld">D.  Colorless green ideas sleep furiously</label>
                     </div>
-                    </a>
 
                     <p class="quiz-progress">1 of 6</p>
                 </li>
@@ -124,13 +116,11 @@
                     <div class="quiz-overlay"></div>
                     <h3>You guzzled down a liter of protein shake, you put on on your spandex, warmed up good and ready to go… now what?</h3>
 
-                    <a class="crazyModal" data-iframe="http://www.tinkin.com/shitwars/3/index.html" href="#" data-toggle="modal" data-target="#theModal">
 
 										<div class="mtm">
-                        <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" />
+                        <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" data-iframe="http://www.tinkin.com/shitwars/3/index.html" data-toggle="modal" data-target="#theModal"/>
                         <label for="question-2-answers-A" class="fwrd labela">A.  You crash onto your couch vegging out to reruns of the Gilmore Girls </label>
                     </div>
-                    </a>
 
 
 										<div class="mtm">
@@ -161,13 +151,11 @@
                     <div class="quiz-overlay"></div>
                     <h3>You are working on an mobile app, and it enables user to:</h3>
 
-                    <a class="crazyModal" data-iframe="http://www.tinkin.com/shitwars/3/index.html" href="#" data-toggle="modal" data-target="#theModal">
                     
                     <div class="mtm">
-                        <input type="radio" name="question-3-answers" id="question-3-answers-A" value="A" />
+                        <input type="radio" name="question-3-answers" id="question-3-answers-A" value="A" data-iframe="http://www.tinkin.com/shitwars/3/index.html" data-toggle="modal" data-target="#theModal"/>
                         <label for="question-3-answers-A" class="fwrd labela">A.  date ghosts or other supernatural beings around them</label>
                     </div>
-                    </a>
 
 
                     <div class="mtm">
@@ -197,13 +185,11 @@
                     <div class="quiz-overlay"></div>
                     <h3>Tomorrow is the vacation you have been longing for, and you are going to:</h3>
 
-                    <a class="crazyModal" data-iframe="http://www.tinkin.com/shitwars/3/index.html" href="#" data-toggle="modal" data-target="#theModal">
                     
                     <div class="mtm">
-                        <input type="radio" name="question-4-answers" id="question-4-answers-A" value="A" />
+                        <input type="radio" name="question-4-answers" id="question-4-answers-A" value="A" data-iframe="http://www.tinkin.com/shitwars/3/index.html" data-toggle="modal" data-target="#theModal"/>
                         <label for="question-4-answers-A" class="fwrd labela">A.  Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch</label>
                     </div>
-                    </a>
 
 
                     <div class="mtm">
@@ -235,7 +221,7 @@
 
 
                     <div class="mtm">
-                        <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
+                        <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A"  data-toggle="modal" data-target="#theModal"/>
                         <label for="question-5-answers-A" class="fwrd labela">A.  groundhogging</label>
                     </div>
 
@@ -268,13 +254,11 @@
                     <div class="quiz-overlay"></div>
                     <h3>I didn’t fart for three days because:</h3>
 
-                    <a class="crazyModal" data-iframe="http://www.tinkin.com/shitwars/3/index.html" href="#" data-toggle="modal" data-target="#theModal">
                     
                     <div class="mtm">
-                        <input type="radio" name="question-6-answers" id="question-6-answers-A" value="A" />
+                        <input type="radio" name="question-6-answers" id="question-6-answers-A" value="A"  data-toggle="modal" data-target="#theModal"/>
                         <label for="question-6-answers-A" class="fwrd labela">A.  One Man's Modus Ponens is Another Man's Modus Tollens</label>
                     </div>
-                    </a>
 
 
                     <div class="mtm">
